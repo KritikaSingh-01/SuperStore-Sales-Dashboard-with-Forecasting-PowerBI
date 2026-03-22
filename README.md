@@ -32,13 +32,13 @@ A dedicated forecasting module is implemented to predict future sales for the ne
 
 ### > Sales Dashboard
 
-"Sales Dashboard" (SuperStore-Sales-dashboard.png)
+![Sales Dashboard](./SuperStore-Sales-dashboard.png)
 
 ---
 
 ### > 30 Days Sales Forecast
 
-"Sales Forecast" (SuperStore-Sales-30-days-Forecasting.png)
+![Sales Forecast](./SuperStore-Sales-30-days-Forecast.png)
 
 ---
 
