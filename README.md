@@ -1,4 +1,4 @@
-#📊 **SuperStore Sales Dashboard (Power BI)**
+# SuperStore Sales Dashboard (Power BI)
 
 An interactive Power BI dashboard project built to analyze sales performance, profit trends, and forecast future sales using time-series analysis.
 
@@ -6,7 +6,7 @@ This project demonstrates data visualization, business insights extraction, and 
 
 ---
 
-##🚀 **Key Features**
+## Key Features
 
 - 📈 Sales Overview – Total Sales, Orders, Profit, and Shipping Days
 - 📊 Category-wise Analysis – Sales distribution by category and sub-category
@@ -18,7 +18,7 @@ This project demonstrates data visualization, business insights extraction, and 
 
 ---
 
-##🔮 **Forecasting Overview**
+## Forecasting Overview🔮
 
 A dedicated forecasting module is implemented to predict future sales for the next 30 days based on historical data.
 
@@ -28,21 +28,21 @@ A dedicated forecasting module is implemented to predict future sales for the ne
 
 ---
 
-##🖼️ **Dashboard Preview**
+## Dashboard Preview🖼️
 
-###🔹 **Sales Dashboard**
+### > Sales Dashboard
 
-"Sales Dashboard" (SuperStore Sales dashboard.png)
-
----
-
-###🔹 **30 Days Sales Forecast**
-
-"Sales Forecast" (SuperStore Sales 30 days Forecasting.png)
+"Sales Dashboard" (SuperStore-Sales-dashboard.png)
 
 ---
 
-##🛠️ **Tools & Technologies Used**
+### > 30 Days Sales Forecast
+
+"Sales Forecast" (SuperStore-Sales-30-days-Forecasting.png)
+
+---
+
+## Tools & Technologies Used
 
 - Power BI
 - Data Cleaning & Transformation
@@ -51,13 +51,13 @@ A dedicated forecasting module is implemented to predict future sales for the ne
 
 ---
 
-##📂 **Dataset**
+## Dataset📂
 
 - SuperStore Sales Dataset (commonly used for analytics practice)
 
 ---
 
-##💡 **Learnings**
+## Learnings 
 
 - Built interactive dashboards using slicers and filters
 - Applied time-series analysis for sales trends
@@ -66,7 +66,7 @@ A dedicated forecasting module is implemented to predict future sales for the ne
 
 ---
 
-##📌 **Future Improvements**
+ ## Future Improvements 📌
 
 - Add advanced DAX measures
 - Enhance UI/UX with custom themes
