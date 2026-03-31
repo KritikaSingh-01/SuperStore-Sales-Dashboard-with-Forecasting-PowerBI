@@ -17,7 +17,15 @@ This project demonstrates data visualization, business insights extraction, and 
 - 🔮 30-Day Forecasting – Predictive analysis for future sales
 
 ---
+## Key Insights
 
+- Technology category generated the highest sales
+- COD is the most commonly used payment method
+- Sales show seasonal spikes during specific months
+- Certain regions outperform others in profitability
+- Forecast indicates a positive trend in future sales
+  
+---
 ## Forecasting Overview🔮
 
 A dedicated forecasting module is implemented to predict future sales for the next 30 days based on historical data.
