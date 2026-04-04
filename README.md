@@ -50,26 +50,29 @@ A dedicated forecasting module is implemented to predict future sales for the ne
 
 ---
 
-## Tools & Technologies Used
-
-- Power BI
-- Data Cleaning & Transformation
-- DAX (Basic Measures)
-- Data Visualization Techniques
-
----
-
 ## Dataset📂
 
-- SuperStore Sales Dataset (commonly used for analytics practice)
+- SuperStore Sales Dataset (publicly available on Kaggle)
 
 ---
+
+## Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Power BI Desktop | Dashboard creation and data visualization |
+| Power Query | Data cleaning and transformation |
+| DAX | Calculated measures and KPIs |
+| Excel / CSV | Source dataset (SuperStore Sales) |
+
+---
+
 
 ## Learnings 
 
 - Built interactive dashboards using slicers and filters
-- Applied time-series analysis for sales trends
-- Implemented forecasting techniques in Power BI
+- Applied time-series analysis to track monthly sales and profit trends
+- Implemented 30-day forecasting using Power BI's built-in forecasting feature
 - Improved storytelling using data visualization
 
 ---
@@ -78,6 +81,9 @@ A dedicated forecasting module is implemented to predict future sales for the ne
 
 - Add advanced DAX measures
 - Enhance UI/UX with custom themes
-- Include more KPIs and drill-through analysis
+- Include drill-through pages for product and region-level analysis
+- Add year-over-year growth comparison across categories
 
 ---
+
+
