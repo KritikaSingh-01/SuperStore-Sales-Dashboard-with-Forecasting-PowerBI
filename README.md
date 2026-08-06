@@ -86,4 +86,8 @@ A dedicated forecasting module is implemented to predict future sales for the ne
 
 ---
 
+## 👤 Author
 
+**Kritika Singh**
+
+GitHub: https://github.com/KritikaSingh-01
